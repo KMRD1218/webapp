@@ -6,7 +6,7 @@
             "value": "de73225d-543b-4143-a449-1a50eaa1d71d"
         },
         "resourceGroupName": {
-            "value": "TestRG"
+            "value": "MYRG"
         },
         "name": {
             "value": "testwebvm"
