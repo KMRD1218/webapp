@@ -15,10 +15,10 @@
             "value": "East US"
         },
         "hostingPlanName": {
-            "value": "ASP-TestRG-b805"
+            "value": "ASP-MYRG-b805"
         },
         "serverFarmResourceGroup": {
-            "value": "TestRG"
+            "value": "MYRG"
         },
         "alwaysOn": {
             "value": false
